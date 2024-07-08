@@ -1,22 +1,23 @@
-Project Name :
-  CREDIT CARD CUSTOMER AND TRANSACTION WEEKLY REPORT
+Project Name :                                                                                                                                                                                          
+     CREDIT CARD CUSTOMER AND TRANSACTION WEEKLY REPORT
 
-Project Objective :
+Project Objective :                                                                                                                                                                                           
    To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations 
    effectively.
 
-Technologies Used :
-  📈 Power BI
-  🔢 Excel
+Technologies Used :                                                                                                                                                                                           
+  • Power BI                                                                                                                                                                                                
+  • SQL                                                                                                                                                                                                       
+  • DAX
 
-Steps Overview :
-  1) Data subset collected from online.
-  2) Understanding the Data.
-  3) Data Cleaning & Finding Missing values.
-  4) Data Visualization.
+Steps Overview :                                                                                                                                                                                              
+  1) Data subset collected from online.                                                                                                                                                                       
+  2) Understanding the Data.                                                                                                                                                                                  
+  3) Data Cleaning & Finding Missing values.                                                                                                                                                                  
+  4) Data Visualization.                                                                                                                                                                                      
    
 Dashboard Content :
-1) Credit Card Customer Report Dashboard :
+1) Credit Card Customer Report Dashboard :                                                                                                                                                                    
    Overview
     • This dashboard provides a comprehensive analysis of credit card customer data, focusing on key performance indicators (KPIs) and various demographic insights. It is designed to help stakeholders
       understand customer behavior, revenue patterns, and overall satisfaction levels.
