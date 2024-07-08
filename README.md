@@ -65,7 +65,7 @@ Dashboard Content :
     • Gender: Provides the ability to filter data by customer gender, enabling gender-based analysis.                                                                                                         
     • Quarter: Enables users to filter and view data for specific quarters, facilitating a quarterly analysis of transactions.                                                                                
 
-Project Insights- Week 53 (31st Dec)                                                                                                                                                                          
+Report Insights- Week 53 (31st Dec)                                                                                                                                                                          
    1) Week On Week change:                                                                                                                                                                                   
    • Revenue increased by 28.8%.                                                                                                                                                                              
    • Total Transaction Amount increased by 35%.                                                                                                                                                               
