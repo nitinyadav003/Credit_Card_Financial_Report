@@ -11,12 +11,13 @@ Technologies Used :
   • DAX
 
 Steps Overview :                                                                                                                                                                                              
-  1) Data subset collected from SQL Database.                                                                                                                                                                 
-  2) Understanding the Data.                                                                                                                                                                                  
-  3) Data Cleaning & Finding Missing values.                                                                                                                                                                  
-  4) Data Visualization.                                                                                                                                                                                      
-   
-Dashboard Content :
+  1) The dummy dataset was collected from an SQL database available on an online platform.
+  2) Understand the structure and distribution of the data.                                                                                                                                                
+  3) Check for missing values, outliers, and inconsistencies in the data.
+  4) Clean the dataset by addressing these issues to ensure data quality.                                                                                                                           
+  5) Generate summary statistics and visualizations.
+
+  Dashboard Content :
 1) Credit Card Customer Report Dashboard :                                                                                                                                                                    
    Overview                                                                                                                                                                                                   
     • This dashboard provides a comprehensive analysis of credit card customer data, focusing on key performance indicators (KPIs) and various demographic insights. It is designed to help stakeholders
